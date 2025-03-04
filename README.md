@@ -65,6 +65,6 @@ __________
 
 # Câu hỏi 3: Viết một ứng dụng có UI như sau, đẩy lên GitHub.
 
-[CLICK ĐƯỜNG LINK VÀO ĐÂY ĐỂ XEM TRÊN FIGMA](https://www.figma.com/design/oUzFK9fITbNrJH38tTvsPq/BT_tu%E1%BA%A7n_01_2025_03_04?node-id=0-1&t=5DT0WM29k5QeiZxw-1) "BT_tuần_01_2025_03_04")
+[CLICK ĐƯỜNG LINK VÀO ĐÂY ĐỂ XEM TRÊN FIGMA](https://www.figma.com/design/oUzFK9fITbNrJH38tTvsPq/BT_tu%E1%BA%A7n_01_2025_03_04?node-id=0-1&t=5DT0WM29k5QeiZxw-1 "BT_tuần_01_2025_03_04")
 
 __________
