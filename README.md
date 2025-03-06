@@ -68,3 +68,8 @@ __________
 [CLICK ĐƯỜNG LINK VÀO ĐÂY ĐỂ XEM TRÊN FIGMA](https://www.figma.com/design/oUzFK9fITbNrJH38tTvsPq/BT_tu%E1%BA%A7n_01_2025_03_04?node-id=0-1&t=5DT0WM29k5QeiZxw-1 "BT_tuần_01_2025_03_04")
 
 __________
+
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Data 1   | Data 2   | Data 3   |
+| Data 4   | Data 5   | Data 6   |
